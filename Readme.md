@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [PageNestedToMasterPage.aspx](./CS/WebSite/PageNestedToMasterPage.aspx) (VB: [PageNestedToMasterPage.aspx.vb](./VB/WebSite/PageNestedToMasterPage.aspx.vb))
+* [PageNestedToMasterPage.aspx.cs](./CS/WebSite/PageNestedToMasterPage.aspx.cs) (VB: [PageNestedToMasterPage.aspx.vb](./VB/WebSite/PageNestedToMasterPage.aspx.vb))
+* [StandalonePage.aspx](./CS/WebSite/StandalonePage.aspx) (VB: [StandalonePage.aspx](./VB/WebSite/StandalonePage.aspx))
+* [StandalonePage.aspx.cs](./CS/WebSite/StandalonePage.aspx.cs) (VB: [StandalonePage.aspx](./VB/WebSite/StandalonePage.aspx))
+<!-- default file list end -->
 # How to adjust DevExpress ASP.NET controls when opening page in IE Compatibility Mode
 
 
