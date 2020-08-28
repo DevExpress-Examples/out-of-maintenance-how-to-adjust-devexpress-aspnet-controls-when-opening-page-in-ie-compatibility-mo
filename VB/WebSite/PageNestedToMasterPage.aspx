@@ -1,6 +1,6 @@
 <%@ Page Title="" Language="vb" MasterPageFile="~/MasterPage.master" AutoEventWireup="true"
 	CodeFile="PageNestedToMasterPage.aspx.vb" Inherits="PageNestedToMasterPage" %>
-<%@ Register Assembly="DevExpress.Web.v14.1, Version=14.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Web.ASPxGridView" TagPrefix="dx" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
 </asp:Content>
